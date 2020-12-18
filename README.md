@@ -1,0 +1,2 @@
+# Advent-of-Code-2020-Cpp-solutions-
+This project contains the C++ solutions to the Advent of Code 2020. All solutions may not exist but will soon come into existence as I work on them. Also be sure to open these files with Visual Studio or as you like with any other IDE if you know how to seperate out different files. Only use these solutions after you are perfectly sure you won't be able to solve the questions and are in a complete urge to see the answers.
